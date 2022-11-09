@@ -2,3 +2,4 @@
 /.gradle/
 /basic/build/
 /basic/build/intermediates/javac/debug/classes/
+*.cxx/
